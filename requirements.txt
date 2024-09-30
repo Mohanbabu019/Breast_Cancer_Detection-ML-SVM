@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+tensrflow
+Sklearn
+seaborn
+Flask
+render_template
+request
